@@ -1,6 +1,8 @@
 # generic-chip8-interpreter
 A generic chip8 interpreter I created as an entry level project into writing emulators
 
+Doesn't have sound yet, probably never will unless I get off my lazy ass and do it
+
 # Usage
 To compile, you will need SDL2.
 
